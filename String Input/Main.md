@@ -1,0 +1,3 @@
+This Java Swing project demonstrates how to create a graphical user interface (GUI) using JFrame that allows users to input strings through JTextFields. The application includes labels, text fields, and buttons to capture and display user input dynamically. It showcases core Java concepts such as event handling with ActionListeners, GUI component layout, and interaction between frontend components and application logic. Ideal for beginners and intermediate Java learners, this project illustrates building interactive desktop applications, managing user input, and designing simple, responsive GUI applications in Java.
+
+#java #javax #swing
